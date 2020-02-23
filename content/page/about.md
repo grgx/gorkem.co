@@ -1,7 +1,7 @@
 ---
-title: About
-description: What does Minimo even means?!
-menu: main
+title: İletişim
+description: İletişim Bilgileri
+menu: sidebar
 weight: -210
 ---
 
