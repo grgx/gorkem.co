@@ -4,7 +4,7 @@ lastmod: 2020-02-22T18:53:00+03:00
 title: "Temel Linux Komutları (Bash) ve Kullanımları"
 authors: ["grkmgry"]
 cover: 
-  image: /images/bash.png
+  image: /images/bash.webp
   style: normal
   
 categories:
