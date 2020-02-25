@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = "gorkemco"
+disqusShortname = ""
 googleAnalytics = "UA-136279497-1"
 
 Paginate = 5
@@ -95,20 +95,20 @@ scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
 dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [params.comments.staticman]
-enable = true
+enable = false
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
-username = "MunifTanjim"
-repository = "minimo"
+username = "grgx"
+repository = "gorkem.co"
 
 # Utterances: https://utteranc.es
 [params.comments.utterances]
-enable = false
+enable = true
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
-username = "MunifTanjim"
-repository = "minimo"
+username = "grgx"
+repository = "gorkem.co"
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
