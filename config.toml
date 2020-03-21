@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "gorkemco"
 googleAnalytics = "UA-136279497-1"
 
 Paginate = 5
@@ -103,7 +103,7 @@ repository = "gorkem.co"
 
 # Utterances: https://utteranc.es
 [params.comments.utterances]
-enable = true
+enable = false
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
